@@ -1,0 +1,98 @@
+🎯 1. Consistencia de tiempos verbales (tu mayor punto débil)
+Los comentarios repiten que mezclás tiempos sin necesidad.
+
+Errores típicos:
+
+Cambiar entre pasado, presente y futuro en la misma idea.
+
+Usar pasado continuo cuando deberías usar pasado simple.
+
+Usar presente simple para acciones futuras.
+
+Corrección:
+
+Pasado simple → acciones completadas
+
+Presente simple → estados actuales
+
+Futuro simple → planes
+
+Ejemplo profesional:
+Item 2 was completed yesterday. Item 3 is ready now. I will present the KPI tomorrow.
+
+🎯 2. Estructura poco clara en tus updates
+Los documentos dicen que tus ideas a veces quedan “incompletas”, “ambiguas” o “mezcladas”.
+
+Corrección:
+Usá siempre esta estructura:
+
+What I did
+
+Result
+
+What is missing
+
+Next steps + date
+
+Blockers
+
+Ejemplo:
+I completed the KPI. The validation is pending. I will finish it by Friday noon. No blockers.
+
+🎯 3. Frases repetitivas o poco naturales
+Los comentarios mencionan:
+
+Repeticiones (“I I I was…”)
+
+Frases largas sin necesidad
+
+Ideas duplicadas
+
+Corrección:
+Frases cortas, directas y sin ruido.
+
+Ejemplo:
+I worked on item 2 and the analysis is almost done.
+
+🎯 4. Precisión en términos técnicos
+Los documentos dicen que a veces usás términos técnicos sin consistencia.
+
+Corrección:
+
+Usar siempre la misma forma: fact table, dim table, KPI, pipeline, warehouse.
+
+Evitar mezclar español e inglés.
+
+Ser claro: “I validated the KPI using the fact_sales table.”
+
+🎯 5. Claridad en blockers
+Los comentarios dicen que a veces no los expresás bien.
+
+Corrección:
+Frases estándar:
+
+No blockers at the moment.
+
+We need data from X to continue.
+
+I’m waiting for client confirmation.
+
+🎯 6. Preposiciones en contexto laboral
+Los documentos mencionan errores con preposiciones.
+
+Correcciones clave:
+
+work on a task
+
+meet with someone
+
+finish by Friday
+
+review with stakeholders
+
+access to data
+
+progress on item 2
+
+Ejemplo:
+I’m working on item 2 and I will finish it by Friday.
