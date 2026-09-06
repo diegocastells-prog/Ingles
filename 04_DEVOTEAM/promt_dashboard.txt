@@ -1,0 +1,140 @@
+🎯 PROMPT DEFINITIVO PARA GENERAR UN TABLERO TIPO GITHUB PROJECTS
+(Copia/pega y solo cambia los parámetros)
+
+PROMPT:
+
+Generate a complete GitHub Projects board with columns:
+
+Todo
+
+In Progress
+
+Review
+
+Done
+
+The board is for an English-speaking role‑play session where the PM (teacher) leads the project and the team (students) act as Data Engineers and Power BI Analysts.
+
+Parameters:
+
+Number of participants: [INSERT NUMBER]
+
+Participants (name + role):
+
+[Name 1] — Data Engineer
+
+[Name 2] — Power BI Analyst
+
+[Name 3] — Data Engineer
+
+…
+
+Industry: [INSERT INDUSTRY]
+
+Company name: [INSERT COMPANY]
+
+The output must include:
+
+1. Project Overview Card
+Company description
+
+Industry context
+
+Business problem
+
+Project goal
+
+KPIs
+
+2. Backlog Generation
+Create 12–20 tasks divided into:
+
+Data Engineering tasks
+
+Power BI tasks
+
+Cross-team tasks
+
+3. Task Cards (GitHub Issue style)
+For each task, generate:
+
+Title
+
+Description
+
+Acceptance criteria
+
+Priority (High / Medium / Low)
+
+Dependencies
+
+Assigned participant (based on role)
+
+Status (Todo / In Progress / Review / Done)
+
+4. Automatic Assignment Rules
+Data Engineers → ingestion, pipelines, transformations, schema validation
+
+Power BI Analysts → semantic model, DAX, visuals, dashboards
+
+PM → coordination, blockers, risks, priorities
+
+5. English Speaking Practice
+For each task, generate:
+
+PM questions
+
+Team answers
+
+Useful expressions
+
+Verb tense practice (present, past, future, conditional)
+
+Mini‑dialogues
+
+6. Final Output Format
+Present everything as beautiful cards, clearly separated, with emojis, short text, and GitHub‑style task formatting.
+
+Always keep the roles:
+
+PM = teacher
+
+Team = Data Engineers + Power BI Analysts
+
+Generate everything automatically based on the parameters.
+
+🧩 ¿Qué te permite este prompt?
+Crear tableros como el de tu imagen
+
+Asignar tareas automáticamente
+
+Simular sprints reales
+
+Practicar inglés con diálogos PM ↔ equipo
+
+Cambiar empresa/sector cada clase
+
+Improvisar tiempos verbales
+
+Tener una clase 100% orientada a reuniones reales
+
+🚀 ¿Quieres que te genere un tablero ahora mismo?
+Solo dime:
+
+Número de participantes
+
+Nombres
+
+Roles
+
+Sector
+
+Empresa
+
+Puedes elegir una opción:
+
+Generar tablero ahora
+
+Añadir más columnas y automatizaciones
+
+Crear versión avanzada del prompt
