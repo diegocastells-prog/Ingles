@@ -4,7 +4,21 @@ Puntos a fortalecer: - Claridad en la estructura de ideas: a veces enlazas ideas
 
 Qué hice bien: - Mostraste iniciativa para detallar pasos y resultados (mencionar KPIs, datos, y replicación). Eso ayuda a que el revisor entienda el progreso. - Pediste guía y estableciste un plan para los próximos pasos, lo cual es clave en un entorno de trabajo. - Mostraste confianza al indicar que no hay blockers y que ya tienes un plan de acción.
 
-Recomendaciones prácticas: - Practica estructuras de respuesta en esta secuencia: (1) Qué hice, (2) Resultados o evidencia, (3) Qué falta por hacer, (4) Plan concreto y fechas tentativas. - Trabaja en la consistencia de tiempos verbales: usa presente perfecto para acciones que comenzaron en el pasado y siguen afectando el presente (por ejemplo, “I have replicated the warehouse data” en lugar de “I replicated…” si el resultado aún está vigente). - Desarrolla respuestas cortas y directas para evitar repeticiones y ruido. - Si puedes, prepara un checklist o plantilla de respuesta para estas reuniones, con secciones: Objetivo, Progreso, Desafíos, Próximos Pasos, Soporte Necesario.
+Recomendaciones prácticas: - Practica estructuras de respuesta en esta secuencia: 
+(1) Qué hice, 
+(2) Resultados o evidencia, 
+(3) Qué falta por hacer, 
+(4) Plan concreto y fechas tentativas. 
+
+-Trabaja en la consistencia de tiempos verbales: 
+    usa presente perfecto para acciones que comenzaron en el pasado y siguen afectando el presente
+    por ejemplo
+    I have replicated the warehouse data” en lugar de “I replicated… 
+    si el resultado aún está vigente. 
+ 
+- Desarrolla respuestas cortas y directas para evitar repeticiones y ruido. 
+- Si puedes, prepara un checklist o plantilla de respuesta para estas reuniones,con secciones:
+     Objetivo, Progreso, Desafíos, Próximos Pasos, Soporte Necesario.
 
 Temas de estudio sugeridos: - Gramática: tiempos verbales (present perfect, simple past, future with will/going to), uso de preposiciones en contextos de proyectos. - Expresión de progreso técnico: cómo comunicar implementación de pipelines, tablas fact/dim, y verificación de KPIs de forma clara en inglés.
 

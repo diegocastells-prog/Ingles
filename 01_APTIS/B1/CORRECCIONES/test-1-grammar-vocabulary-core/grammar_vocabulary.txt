@@ -1,0 +1,336 @@
+Error 1 (Pregunta 5) — Tipo: Grammar
+Enunciado: My older sister always gives me ___ advice when I need help.
+❌ Tu respuesta: an
+✅ Respuesta correcta: -
+Explicación: Este es el clásico error de hispanohablantes. En español decimos "un consejo", por eso te pide el cuerpo poner "an advice". Sin embargo, en inglés, la palabra advice es incontable. Esto significa que no puedes ponerle "a/an" delante, ni tampoco añadirle una "-s" al final. Va "desnuda" o acompañada de "some".
+
+Ejemplos adicionales:
+
+She gave me some good advice. (Ella me dio un buen consejo.)
+I need advice on how to study. (Necesito consejo sobre cómo estudiar.)
+🔑 Truco infalible APTIS: ¿Ves la palabra ADVICE (o information, furniture, luggage)?
+
+❌ NUNCA elijas "an" ni "-s" al final.
+→ Elige la opción vacía (-) o some.
+Error 2 (Pregunta 7) — Tipo: Grammar
+Enunciado: He ___ the message before he found out the truth.
+❌ Tu respuesta: (sin respuesta)
+✅ Respuesta correcta: had sent
+Explicación: Aquí tenemos dos acciones en el pasado: "enviar el mensaje" y "enterarse de la verdad" (found out). Cuando una acción ocurrió antes que otra acción pasada, usamos el Past Perfect (had + participio). Él había enviado el mensaje antes de enterarse. ¡No dejes nunca en blanco estas preguntas!
+
+Ejemplos adicionales:
+
+She had left before I arrived. (Ella se había ido antes de que yo llegara.)
+They had already eaten when we called. (Ellos ya habían comido cuando llamamos.)
+🔑 Truco infalible APTIS: ¿Ves dos acciones en el pasado conectadas por BEFORE o BY THE TIME?
+
+→ La acción que pasó PRIMERO va con HAD + participio (-ed / 3ª columna).
+Error 3 (Pregunta 8) — Tipo: Grammar
+Enunciado: Look at the dark clouds! It ___ rain tomorrow.
+❌ Tu respuesta: will be
+✅ Respuesta correcta: is going to
+Explicación: Usamos is going to (y no will) cuando hacemos una predicción basada en una evidencia física presente que podemos ver (en este caso, las nubes oscuras). Además, "will be rain" es incorrecto gramaticalmente (debería ser will rain).
+
+Ejemplos adicionales:
+
+Look at him! He is going to fall. (¡Míralo! Se va a caer.)
+The sky is clear; it is going to be a hot day. (El cielo está despejado; va a ser un día caluroso.)
+🔑 Truco infalible APTIS:
+
+¿Hay una EVIDENCIA física en la frase (nubes, un coche yendo rápido, etc.)? → Usa BE GOING TO.
+¿Es solo una opinión o predicción general? → Usa WILL.
+Error 4 (Pregunta 14) — Tipo: Grammar
+Enunciado: The sun was ___ boiling this afternoon.
+❌ Tu respuesta: very
+✅ Respuesta correcta: absolutely
+Explicación: "Boiling" (hirviendo/ardiendo) es un adjetivo extremo (ya significa "extremadamente caliente"). En inglés, no podemos usar "very" con adjetivos extremos. Tenemos que usar potenciadores fuertes como absolutely o completely.
+
+Ejemplos adicionales:
+
+The movie was absolutely terrifying. (La película fue absolutamente aterradora.)
+I am absolutely exhausted. (Estoy absolutamente agotado.)
+🔑 Truco infalible APTIS:
+
+Adjetivo normal (hot, cold, tired) → VERY
+Adjetivo extremo (boiling, freezing, exhausted) → ABSOLUTELY
+Error 5 (Pregunta 19) — Tipo: Grammar
+Enunciado: I can't stand ___ in long queues.
+❌ Tu respuesta: (sin respuesta)
+✅ Respuesta correcta: waiting
+Explicación: Este es un tema de Verb Patterns (verbos que van seguidos de otro verbo). La expresión can't stand (no soportar) siempre, sin excepción, exige que el siguiente verbo termine en -ing.
+
+Ejemplos adicionales:
+
+I can't stand washing the dishes. (No soporto lavar los platos.)
+She can't stand listening to loud music. (Ella no soporta escuchar música alta.)
+🔑 Truco infalible APTIS: ¿Ves en la frase can't stand, enjoy, avoid o mind?
+
+→ El siguiente verbo acaba en -ING. ¡Siempre!
+Error 6 (Pregunta 20) — Tipo: Grammar
+Enunciado: You promised ___ me with my homework.
+❌ Tu respuesta: helping
+✅ Respuesta correcta: to help
+Explicación: Al contrario que en el error anterior, el verbo promise (prometer) pertenece al grupo de verbos que exigen ir seguidos de un infinitivo con to (to + verbo).
+
+Ejemplos adicionales:
+
+He promised to call me. (Él prometió llamarme.)
+We promised to be on time. (Prometimos llegar a tiempo.)
+🔑 Truco infalible APTIS: ¿Ves promise, decide, hope o want?
+
+→ El siguiente verbo va con TO + infinitivo.
+Error 7 (Pregunta 21) — Tipo: Grammar
+Enunciado: You ___ be Sonia's sister. You look just like her!
+❌ Tu respuesta: may
+✅ Respuesta correcta: must
+Explicación: Hablamos de deducción con verbos modales. Usamos must cuando estamos un 99% seguros de algo porque tenemos una prueba clara ("¡te pareces igualita a ella!"). Usamos may cuando es solo una posibilidad débil (un "quizás").
+
+Ejemplos adicionales:
+
+You must be tired after your long trip. (Debes de estar cansado después de tu largo viaje.)
+He must be rich; he drives a Ferrari. (Él debe de ser rico; conduce un Ferrari.)
+🔑 Truco infalible APTIS:
+
+¿Hay una prueba evidente en la frase que te hace estar seguro? → Usa MUST (debe de).
+¿Hay duda o falta de información? → Usa MAY/MIGHT (puede que).
+Error 8 (Pregunta 22) — Tipo: Grammar
+Enunciado: The event ___ broadcasted today in over 50 countries!
+❌ Tu respuesta: has been
+✅ Respuesta correcta: is being
+Explicación: La frase incluye la palabra today (hoy), lo que nos indica que es una acción en desarrollo en este momento. Es una voz pasiva en presente continuo: "está siendo transmitido" (is being broadcasted). "Has been" significaría "ha sido", pero el contexto de actualidad pide el presente continuo.
+
+Ejemplos adicionales:
+
+The house is being painted today. (La casa está siendo pintada hoy.)
+My car is being repaired right now. (Mi coche está siendo reparado justo ahora.)
+🔑 Truco infalible APTIS: ¿Ves today o now + una acción pasiva (el sujeto no hace la acción, la recibe)?
+
+→ Elige IS/ARE BEING + participio.
+Error 9 (Pregunta 23) — Tipo: Grammar
+Enunciado: My cousin takes ___ my aunt. They are quite similar.
+❌ Tu respuesta: (sin respuesta)
+✅ Respuesta correcta: after
+Explicación: Este es un phrasal verb muy común en el examen. Take after significa parecerse físicamente o en el carácter a un familiar mayor (padre, madre, tía...).
+
+Ejemplos adicionales:
+
+He takes after his father. (Él se parece a su padre.)
+Do you take after your mother? (¿Te pareces a tu madre?)
+🔑 Truco infalible APTIS: ¿Ves que comparan a alguien con un familiar y dicen que son similares (similar, look like)?
+
+→ El phrasal verb es siempre TAKE AFTER.
+Error 10 (Pregunta 25) — Tipo: Grammar
+Enunciado: I can always depend ___ my mother.
+❌ Tu respuesta: for
+✅ Respuesta correcta: on
+Explicación: Las preposiciones dependientes son fijas. En español decimos "depender de", pero en inglés es un error gravísimo traducir literal. El verbo depend siempre va acompañado de la preposición on.
+
+Ejemplos adicionales:
+
+It depends on the weather. (Depende del tiempo.)
+You can depend on me. (Puedes depender de mí / contar conmigo.)
+🔑 Truco infalible APTIS: Grábate esto en la cabeza:
+
+🧠 DEPEND + 🔛 ON (Depend-ON). ¡Siempre van de la mano!
+Error 11 (Pregunta 26.1) — Tipo: Synonyms
+Enunciado: argue = ?
+❌ Tu respuesta: (sin respuesta)
+✅ Respuesta correcta: disagree
+Explicación: "Argue" significa discutir o pelear verbalmente. Su sinónimo más cercano es "disagree" (no estar de acuerdo / discrepar). ¡Ojo con dejarlo en blanco!
+
+Ejemplos adicionales:
+
+They always argue about money. (Ellos siempre discuten por dinero.)
+I disagree with your opinion. (No estoy de acuerdo con tu opinión.)
+🔑 Truco infalible APTIS:
+
+Argue (discutir) = Disagree (discrepar). Asocia la D de discutir con la D de disagree.
+Error 12 (Pregunta 26.4) — Tipo: Synonyms
+Enunciado: own = ?
+❌ Tu respuesta: (sin respuesta)
+✅ Respuesta correcta: possess
+Explicación: "Own" como verbo significa poseer o ser dueño de algo. Su sinónimo formal es "possess" (poseer).
+
+Ejemplos adicionales:
+
+I own a small car. (Soy dueño de un coche pequeño.)
+She possesses great talent. (Ella posee un gran talento.)
+🔑 Truco infalible APTIS:
+
+Si eres el owner (dueño) de algo, es porque lo possess (posees). ¡Fácil!
+Error 13 (Pregunta 26.5) — Tipo: Synonyms
+Enunciado: occur = ?
+❌ Tu respuesta: (sin respuesta)
+✅ Respuesta correcta: happen
+Explicación: "Occur" es simplemente una forma más formal de decir "happen" (ocurrir, pasar, suceder).
+
+Ejemplos adicionales:
+
+The accident occurred at night. (El accidente ocurrió por la noche.)
+What is going to happen? (¿Qué va a pasar?)
+🔑 Truco infalible APTIS:
+
+Occur = Happen (ambas significan "pasar/ocurrir"). Son intercambiables en el 99% de los casos.
+Error 14 (Pregunta 27.2) — Tipo: Definitions
+Enunciado: To choose something is to ___
+❌ Tu respuesta: (sin respuesta)
+✅ Respuesta correcta: decide
+Explicación: La definición de "elegir" (choose) es tomar una decisión entre varias opciones, es decir, "decidir" (decide).
+
+Ejemplos adicionales:
+
+You must choose a color. (Debes elegir un color.)
+I can't decide what to wear. (No puedo decidir qué ponerme.)
+🔑 Truco infalible APTIS:
+
+Choose (elegir) requiere que tomes una decision → por tanto, choose = decide.
+Error 15 (Pregunta 27.3) — Tipo: Definitions
+Enunciado: To get money from work is to ___
+❌ Tu respuesta: donate
+✅ Respuesta correcta: earn
+Explicación: "Earn" significa ganar dinero a cambio de tu trabajo (ganarse el sueldo). Marcaste "donate" (donar), que es justo lo contrario: dar dinero gratis para ayudar a otros.
+
+Ejemplos adicionales:
+
+She earns a good salary. (Ella gana un buen salario.)
+I want to donate some clothes. (Quiero donar algo de ropa.)
+🔑 Truco infalible APTIS:
+
+¿Dinero por trabajar? → EARN (ganar con esfuerzo).
+¿Dinero que tú regalas? → DONATE (donar).
+Error 16 (Pregunta 27.4) — Tipo: Definitions
+Enunciado: To help someone is to ___
+❌ Tu respuesta: employ
+✅ Respuesta correcta: assist
+Explicación: "Assist" es un falso amigo. No significa "asistir a un sitio", sino "ayudar/asistir a alguien" (help). "Employ" significa dar empleo o contratar.
+
+Ejemplos adicionales:
+
+The nurse will assist you. (La enfermera le asistirá/ayudará.)
+The company wants to employ more staff. (La empresa quiere emplear a más personal.)
+🔑 Truco infalible APTIS:
+
+Assist = 🆘 Help (ayudar). Grábate que "asistencia en carretera" es para ayudarte.
+Error 17 (Pregunta 28.1) — Tipo: Sentence-fill
+Enunciado: After it rained, the path was all ___ and my trainers got dirty.
+❌ Tu respuesta: (sin respuesta)
+✅ Respuesta correcta: lame
+Explicación: "Lame" en este contexto (y como opción del examen) se utiliza para describir algo que está en muy malas condiciones, impracticable o "pobre". Si el camino tras la lluvia quedó impracticable y te ensució las zapatillas, estaba "lame" (en mal estado).
+
+Ejemplos adicionales:
+
+The path was lame. (El camino estaba en mal estado/impracticable.)
+That is a lame excuse. (Esa es una excusa barata/pobre.)
+🔑 Truco infalible APTIS:
+
+Si un camino se estropea por la lluvia y te ensucia, el camino quedó "débil/pobre" → LAME.
+Error 18 (Pregunta 28.2) — Tipo: Sentence-fill
+Enunciado: It is important to create an eye-catching ___ when starting a business.
+❌ Tu respuesta: (sin respuesta)
+✅ Respuesta correcta: design
+Explicación: "Eye-catching" significa llamativo o que atrae las miradas. Un negocio que empieza necesita un "diseño" (design) llamativo (un buen logo, colores, etc.).
+
+Ejemplos adicionales:
+
+The website has a modern design. (El sitio web tiene un diseño moderno.)
+She wears clothes with unique designs. (Ella lleva ropa con diseños únicos.)
+🔑 Truco infalible APTIS:
+
+¿Ves eye-catching (llamativo)? Suele ir de la mano con cosas visuales como DESIGN (diseño) o LOGO.
+Error 19 (Pregunta 29.1) — Tipo: Synonyms
+Enunciado: jog = ?
+❌ Tu respuesta: (sin respuesta)
+✅ Respuesta correcta: run
+Explicación: "Jog" es hacer footing (correr a un ritmo suave). Por lo tanto, su sinónimo directo es "run" (correr).
+
+Ejemplos adicionales:
+
+I like to jog in the morning. (Me gusta correr/hacer footing por la mañana.)
+He can run very fast. (Él puede correr muy rápido.)
+🔑 Truco infalible APTIS:
+
+Jog (footing) es una forma de Run (correr). ¡Asócialos siempre!
+Error 20 (Pregunta 29.3) — Tipo: Synonyms
+Enunciado: notice = ?
+❌ Tu respuesta: (sin respuesta)
+✅ Respuesta correcta: see
+Explicación: "To notice" significa percatarse, fijarse o darse cuenta de algo. Para darte cuenta de algo, normalmente tienes que "verlo" (see).
+
+Ejemplos adicionales:
+
+Did you notice her new haircut? (¿Te fijaste en/viste su nuevo corte de pelo?)
+I didn't see the sign. (No vi el cartel.)
+🔑 Truco infalible APTIS:
+
+Notice (darse cuenta/fijarse) se hace con los ojos → See (ver).
+Error 21 (Pregunta 29.5) — Tipo: Synonyms
+Enunciado: conceal = ?
+❌ Tu respuesta: (sin respuesta)
+✅ Respuesta correcta: hide
+Explicación: "Conceal" es un verbo formal que significa ocultar o esconder. Su equivalente común es "hide".
+
+Ejemplos adicionales:
+
+He tried to conceal the truth. (Intentó ocultar la verdad.)
+The kids like to hide in the closet. (A los niños les gusta esconderse en el armario.)
+🔑 Truco infalible APTIS:
+
+Piensa en el maquillaje corrector que tapa imperfecciones: se llama concealer. Por lo tanto, Conceal = Hide (ocultar/esconder).
+Error 22 (Pregunta 30.1) — Tipo: Collocations
+Enunciado: reduced + ?
+❌ Tu respuesta: rafting
+✅ Respuesta correcta: price
+Explicación: Las collocations son palabras que van juntas de forma natural. En las tiendas, cuando algo está rebajado, se dice que tiene un "reduced price" (precio reducido).
+
+Ejemplos adicionales:
+
+You can buy it at a reduced price. (Puedes comprarlo a un precio reducido.)
+They offer tickets at a reduced price. (Ofrecen entradas a precio rebajado.)
+🔑 Truco infalible APTIS:
+
+En el mundo del shopping y los negocios: REDUCED + 🏷️ PRICE (precio rebajado).
+Error 23 (Pregunta 30.2) — Tipo: Collocations
+Enunciado: sentimental + ?
+❌ Tu respuesta: price
+✅ Respuesta correcta: value
+Explicación: "Sentimental value" (valor sentimental) es una frase hecha. El dinero es "price", pero las emociones tienen "value".
+
+Ejemplos adicionales:
+
+This ring has sentimental value. (Este anillo tiene valor sentimental.)
+It's not worth much, but it has great sentimental value. (No vale mucho, pero tiene un gran valor sentimental.)
+🔑 Truco infalible APTIS:
+
+Los sentimientos no tienen precio (price), tienen valor → SENTIMENTAL + ❤️ VALUE.
+Error 24 (Pregunta 30.3) — Tipo: Collocations
+Enunciado: immediate + ?
+❌ Tu respuesta: price
+✅ Respuesta correcta: family
+Explicación: "Immediate family" es una colocación que significa "familia directa" o "núcleo familiar" (padres, hermanos, hijos).
+
+Ejemplos adicionales:
+
+Only immediate family attended the funeral. (Solo la familia directa asistió al funeral.)
+My immediate family lives nearby. (Mi familia más cercana vive cerca.)
+🔑 Truco infalible APTIS:
+
+Tus parientes más cercanos y directos son tu: IMMEDIATE + 👨‍👩‍👧‍👦 FAMILY.
+Error 25 (Pregunta 30.4) — Tipo: Collocations
+Enunciado: white-water + ?
+❌ Tu respuesta: (sin respuesta)
+✅ Respuesta correcta: rafting
+Explicación: "White-water rafting" es el término en inglés para hacer rafting en aguas bravas (ríos rápidos y turbulentos).
+
+Ejemplos adicionales:
+
+We went white-water rafting last summer. (Fuimos a hacer rafting en aguas bravas el verano pasado.)
+Is white-water rafting dangerous? (¿Es peligroso el rafting en aguas bravas?)
+🔑 Truco infalible APTIS:
+
+¿Ves white-water (aguas bravas)? Va pegado a 🚣‍♂️ RAFTING. ¡Deporte de aventura!
+💡 Resumen de tus puntos débiles
+Tras analizar tus fallos, he visto tres patrones muy claros sobre los que tenemos que trabajar:
+
+¡NUNCA dejes preguntas en blanco! Has dejado 11 preguntas sin responder. En el examen APTIS no restan puntos por fallar. Dejar una pregunta en blanco es regalarle un 0% de posibilidades al examinador. Aunque no te la sepas, ¡marca una opción al azar! Tienes un 33% o 25% de probabilidad de acertar por pura potra.
+Cuidado con la traducción literal (Falsos Amigos): Has caído en trampas como assist (pensando que era asistir y no ayudar) o depend for (traduciendo "depender de"). Hay que aprender las preposiciones de memoria.
+Colocaciones y Sinónimos (Vocabulario): En la parte de vocabulario te ha faltado un poquito de soltura asociando palabras que van juntas de forma natural (sentimental value, reduced price). Con las fichas de trucos que te he dado arriba, esto lo tienes dominado.
