@@ -1,0 +1,300 @@
+Pregunta:
+John is English. ........... an English boy
+Respuesta dada:
+✓ He is
+
+Respuesta correcta: He is
+Pregunta:
+This is a pen. Those ........... books
+Respuesta dada:
+✓ are
+
+Respuesta correcta: are
+Pregunta:
+I´m English. ............ French?
+Respuesta dada:
+✓ are you
+
+Respuesta correcta: are you
+Pregunta:
+I speak English, she ........ Japanese.
+Respuesta dada:
+✓ speaks
+
+Respuesta correcta: speaks
+Pregunta:
+“What ......?” “I’m a student”.
+Respuesta dada:
+✓ do you do
+
+Respuesta correcta: do you do
+Pregunta:
+I’m sorry. I .................. understand
+Respuesta dada:
+✓ don't
+
+Respuesta correcta: don't
+Pregunta:
+“ ....... you like a cup of tea?” “Yes, please”.
+Respuesta dada:
+✓ Would
+
+Respuesta correcta: Would
+Pregunta:
+“Where ............ now?”
+Respuesta dada:
+✓ is he living
+
+Respuesta correcta: is he living
+Pregunta:
+That isn’t your coat. It’s .............. coat.
+Respuesta dada:
+✓ my
+
+Respuesta correcta: my
+Pregunta:
+Take your coat. It ......... rain.
+Respuesta dada:
+✓ is going to
+
+Respuesta correcta: is going to
+Pregunta:
+“No, I don’t want .............. tomatoes."
+Respuesta dada:
+✓ any
+
+Respuesta correcta: any
+Pregunta:
+“Where ........ yesterday?” “I was at home”
+Respuesta dada:
+✓ were you
+
+Respuesta correcta: were you
+Pregunta:
+“Why not go to the National Gallery?” “I ........ there yesterday.”
+Respuesta dada:
+✓ went
+
+Respuesta correcta: went
+Pregunta:
+“Where ........ yesterday?” “I didn’t go anywhere.”
+Respuesta dada:
+✓ did you go
+
+Respuesta correcta: did you go
+Pregunta:
+You ........... work hard to pass the examination.
+Respuesta dada:
+✓ must
+
+Respuesta correcta: must
+Pregunta:
+My French is very good. I speak French ................
+Respuesta dada:
+✓ well
+
+Respuesta correcta: well
+Pregunta:
+I .............. to Russia.
+Respuesta dada:
+✓ have never been
+
+Respuesta correcta: have never been
+Pregunta:
+Richard ........... the tickets.
+Respuesta dada:
+✓ has already bought
+
+Respuesta correcta: has already bought
+Pregunta:
+Don’t go out. It ......... rain.
+Respuesta dada:
+✕ can
+
+Respuesta correcta: may
+Pregunta:
+Richard .......... to a girl when I saw him.
+Respuesta dada:
+✓ was talking
+
+Respuesta correcta: was talking
+Pregunta:
+My sister ......... for my birthday.
+Respuesta dada:
+✓ gave me a book
+
+Respuesta correcta: gave me a book
+Pregunta:
+The man ......... came yesterday is very rich.
+Respuesta dada:
+✓ who
+
+Respuesta correcta: who
+Pregunta:
+John is good at football but Richards is ......
+Respuesta dada:
+✓ better
+
+Respuesta correcta: better
+Pregunta:
+John ........ since he left school
+Respuesta dada:
+✓ has been working
+
+Respuesta correcta: has been working
+Pregunta:
+“Please be quiet.” He told me ..........
+Respuesta dada:
+✕ that be quiet
+
+Respuesta correcta: to be quiet
+Pregunta:
+“I’m a student.” He told me that .................... a student.
+Respuesta dada:
+✓ he was
+
+Respuesta correcta: he was
+Pregunta:
+Susan will come to tea if you ............ her
+Respuesta dada:
+✕ will ask
+
+Respuesta correcta: ask
+Pregunta:
+I’m not as clever as you. You are ....... I am.
+Respuesta dada:
+✓ cleverer than
+
+Respuesta correcta: cleverer than
+Pregunta:
+When I was a child I ............ a lot of sweets.
+Respuesta dada:
+✓ used to eat
+
+Respuesta correcta: used to eat
+Pregunta:
+“ .......... Romeo and Juliet?” “Yes, I saw it on Friday.”
+Respuesta dada:
+✓ Have you seen
+
+Respuesta correcta: Have you seen
+Pregunta:
+The house .............. last year.
+Respuesta dada:
+✓ was built
+
+Respuesta correcta: was built
+Pregunta:
+Mary enjoys ............. in London.
+Respuesta dada:
+✓ living
+
+Respuesta correcta: living
+Pregunta:
+I think you’d better ............ to the doctor.
+Respuesta dada:
+✕ to go
+
+Respuesta correcta: go
+Pregunta:
+Tea will be ready when you ........ home.
+Respuesta dada:
+✕ No Answer Provided
+
+Respuesta correcta: get
+Pregunta:
+If I were you ........ home.
+Respuesta dada:
+✓ I'd go
+
+Respuesta correcta: I'd go
+Pregunta:
+“Have you finished?” He asked me ........
+Respuesta dada:
+✕ if I have finished
+
+Respuesta correcta: if I had finished
+Pregunta:
+They .......... so much they went to sleep in the garden.
+Respuesta dada:
+✕ were eating
+
+Respuesta correcta: had eaten
+Pregunta:
+I like him. He makes me ............
+Respuesta dada:
+✓ laugh
+
+Respuesta correcta: laugh
+Pregunta:
+Would you mind ......... me a cigarette, please?
+Respuesta dada:
+✕ to give
+
+Respuesta correcta: giving
+Pregunta:
+What about ............ to the cinema tonight?
+Respuesta dada:
+✕ we go
+
+Respuesta correcta: going
+Pregunta:
+I ......... here for 5 years in November.
+Respuesta dada:
+✕ will have
+
+Respuesta correcta: shall have been
+Pregunta:
+I wish I .......... a lot of money.
+Respuesta dada:
+✕ will have
+
+Respuesta correcta: had
+Pregunta:
+He’s rather dirty. He .......... a bath before he came here.
+Respuesta dada:
+✕ had
+
+Respuesta correcta: should have had
+Pregunta:
+If you ........... gone to the party you would have seen him.
+Respuesta dada:
+✓ had
+
+Respuesta correcta: had
+Pregunta:
+“Where is Picadilly Circus?” She asked me where ........
+Respuesta dada:
+✓ Picadilly Circus was
+
+Respuesta correcta: Picadilly Circus was
+Pregunta:
+The streets are wet. It ......... raining.
+Respuesta dada:
+✕ No Answer Provided
+
+Respuesta correcta: must have been
+Pregunta:
+He’s too old to paint the house himself, so he ..........
+Respuesta dada:
+✕ No Answer Provided
+
+Respuesta correcta: is having his house painted
+Pregunta:
+I’d rather you ............ later. I’m busy now.
+Respuesta dada:
+✕ will come back
+
+Respuesta correcta: came back
+Pregunta:
+Supposing you ........... there again. What would you do?
+Respuesta dada:
+✕ will have gone
+
+Respuesta correcta: went
+Pregunta:
+“Can I phone you at 6:00?” “No, I ............ ”
+Respuesta dada:
+✓ shall be eating then
+
+Respuesta correcta: shall be eating then

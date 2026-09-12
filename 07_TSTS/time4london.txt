@@ -1,0 +1,423 @@
+1  
+Respuesta correcta: When are you free?
+Pregunta:
+When can we meet again?
+Opciones:
+
+Can you help me?
+
+It was two days ago.
+
+When are you free?
+Respuesta dada: When are you free?
+
+2  
+Respuesta correcta: How long for?
+Pregunta:
+My aunt is going to stay with me.
+Opciones:
+
+How do you do?
+
+How long for?
+
+How was it?
+Respuesta dada: How long for?
+
+3  
+Respuesta correcta: In the evenings
+Pregunta:
+When do you study?
+Opciones:
+
+In the evenings
+
+At school
+
+In the library
+Respuesta dada: In the evenings
+
+4  
+Respuesta correcta: Have you got anything else?
+Pregunta:
+Would you prefer lemonade or orange juice?
+Opciones:
+
+If you like.
+
+Have you got anything else?
+
+Are you sure about that?
+Respuesta dada: Have you got anything else?
+
+5  
+Respuesta correcta: Around the corner
+Pregunta:
+Where is the nearest bank?
+Opciones:
+
+In the car
+
+In my wallet
+
+Around the corner
+Respuesta dada: Around the corner
+
+6  
+Respuesta correcta: Played
+Pregunta:
+Yesterday I _______________ football.
+Opciones:
+
+Play
+
+Played
+
+Playing
+Respuesta dada: Played
+
+7  
+Respuesta correcta: went
+Pregunta:
+Last summer we _______________ on holiday
+Opciones:
+
+went
+
+goed
+
+go
+Respuesta dada: went
+
+8  
+Respuesta correcta: is going
+Pregunta:
+I think Sarah _______________ to be happy with her birthday present
+Opciones:
+
+will
+
+is going
+
+going
+Respuesta dada: will
+
+9  
+Respuesta correcta: prepared
+Pregunta:
+You should not have a dog if you are not ________ to look after it.
+Opciones:
+
+prepared
+
+adapted
+
+arranged
+
+decided
+Respuesta dada: prepared
+
+10  
+Respuesta correcta: looks
+Pregunta:
+John said it _______________ like rain
+Opciones:
+
+will
+
+will be
+
+looks
+Respuesta dada: looks
+
+11  
+Respuesta correcta: between
+Pregunta:
+What differences are there ________ the English spoken in the UK and the English spoken in the US?
+Opciones:
+
+among
+
+between
+
+beside
+
+with
+Respuesta dada: between
+
+12  
+Respuesta correcta: arriving
+Pregunta:
+Anyone __________ after the start of the play is not allowed in until the interval.
+Opciones:
+
+arrives
+
+arriving
+
+has arrived
+
+arrived
+Respuesta dada: arriving
+
+13  
+Respuesta correcta: fancy
+Pregunta:
+I did not ________ driving home in the storm so I stayed overnight in a hotel.
+Opciones:
+
+decide
+
+fancy
+
+prefer
+
+want
+Respuesta dada: fancy
+
+14  
+Respuesta correcta: will
+Pregunta:
+If I have time I _______________ call you later
+Opciones:
+
+will
+
+will to
+
+would
+Respuesta dada: will
+
+15  
+Respuesta correcta: usually
+Pregunta:
+At 6 pm I started to get angry with him because he was late ________.
+Opciones:
+
+as usual
+
+in general
+
+typically
+
+usually
+Respuesta dada: usually
+
+16  
+Respuesta correcta: snowing
+Pregunta:
+It was _______ heavily when I left the house
+Opciones:
+
+snow
+
+snowed
+
+snowing
+Respuesta dada: snowing
+
+17  
+Respuesta correcta: timetable
+Pregunta:
+According the station ______ the train leaves at 7 o’clock
+Opciones:
+
+routine
+
+itinerary
+
+schedule
+
+timetable
+Respuesta dada: timetable
+
+18  
+Respuesta correcta: supply
+Pregunta:
+A local company has agreed to _______ the school team with football shirts.
+Opciones:
+
+contribute
+
+give
+
+supply
+
+produce
+Respuesta dada: supply
+
+19  
+Respuesta correcta: set
+Pregunta:
+I really enjoy stories that are _______ in the distant future.
+Opciones:
+
+found
+
+placed
+
+put
+
+set
+Respuesta dada: set
+
+20  
+Respuesta correcta: attitude
+Pregunta:
+She is now taking a more positive _______ to her studies and should do well.
+Opciones:
+
+attitude
+
+behaviour
+
+manner
+
+style
+Respuesta dada: attitude
+
+21  
+Respuesta correcta: handy
+Pregunta:
+That old saucepan will come in _______ when we go camping.
+Opciones:
+
+convenient
+
+fitting
+
+handy
+
+suitable
+Respuesta dada: convenient
+
+22  
+Respuesta correcta: way
+Pregunta:
+When you stay in a country for some time you get used to the people’s _____ of life.
+Opciones:
+
+habit
+
+custom
+
+way
+
+system
+Respuesta dada: way
+
+23  
+Respuesta correcta: making
+Pregunta:
+The builders are ______ good progress with the new house.
+Opciones:
+
+getting
+
+doing
+
+making
+
+taking
+Respuesta dada: making
+
+24  
+Respuesta correcta: has had
+Pregunta:
+My father ______ his new car for two weeks now.
+Opciones:
+
+has had
+
+has
+
+is having
+
+had
+Respuesta dada: has had
+
+25  
+Respuesta correcta: power
+Pregunta:
+The farmhouse was so isolated that they had to generate their own electricity _______.
+Opciones:
+
+current
+
+grid
+
+power
+
+supply
+Respuesta dada: power
+
+26  
+Respuesta correcta: engage
+Pregunta:
+The judge said that those prepared to _______ in crime must be ready to suffer the consequences.
+Opciones:
+
+involve
+
+engage
+
+undertake
+
+enlist
+Respuesta dada: engage
+
+27  
+Respuesta correcta: offence
+Pregunta:
+Marianne seemed to take ______ at my comments on her work.
+Opciones:
+
+annoyance
+
+insult
+
+offence
+
+indignation
+Respuesta dada: offence
+
+28  
+Respuesta correcta: must
+Pregunta:
+I can’t find my keys anywhere – I ______ have left them at work.
+Opciones:
+
+can
+
+must
+
+ought
+
+would
+Respuesta dada: must
+
+29  
+Respuesta correcta: lose
+Pregunta:
+When a car pulled out in front of her, Jane did well not to ______ control of her bicycle.
+Opciones:
+
+miss
+
+lose
+
+fail
+
+drop
+Respuesta dada: lose
+
+30  
+Respuesta correcta: Provided
+Pregunta:
+_______ you get father’s permission, I will take you skiing next weekend.
+Opciones:
+
+Although
+
+Provided
+Respuesta dada: Provided
